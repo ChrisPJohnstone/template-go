@@ -1,0 +1,21 @@
+on:
+  push:
+    paths:
+      - .github/settings.yml
+    branches:
+      - main
+
+permissions:
+  contents: read
+  administration: write
+
+name: apply-settings
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: probot/settings@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
