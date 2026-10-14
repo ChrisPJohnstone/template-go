@@ -1,8 +1,8 @@
 BINARY ?= bin
 
-.PHONY: build run clean
+.PHONY: run clean
 
-build:
+$(BINARY): $(shell find . type f -name '*.go')
 	go build -o $(BINARY) .
 
 run: build
