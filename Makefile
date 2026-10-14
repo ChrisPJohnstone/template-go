@@ -3,10 +3,10 @@ CONTAINER_ENGINE ?= podman
 
 .PHONY: run clean lint
 
-$(BINARY): $(shell find . type f -name '*.go')
+$(BINARY): $(shell find . -type f -name '*.go')
 	go build -o $(BINARY) .
 
-run: build
+run: $(BINARY)
 	./$(BINARY)
 
 clean:
