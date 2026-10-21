@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/ChrisPJohnstone/template-go/compare/v1.1.0...v1.1.1) (2026-10-21)
+
+
+### Bug Fixes
+
+* cleaned up editorconfig ([#10](https://github.com/ChrisPJohnstone/template-go/issues/10)) ([ae3ead7](https://github.com/ChrisPJohnstone/template-go/commit/ae3ead7f17630dc357f3968d101d75069ffa8685))
+
 ## [1.1.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.0.0...v1.1.0) (2026-10-21)
 
 
