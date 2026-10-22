@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.1.1...v1.2.0) (2026-10-22)
+
+
+### Features
+
+* added make install & uninstall ([#12](https://github.com/ChrisPJohnstone/template-go/issues/12)) ([6d83164](https://github.com/ChrisPJohnstone/template-go/commit/6d831640030a13d04d1c130e5cb535aa78af9637))
+
 ## [1.1.1](https://github.com/ChrisPJohnstone/template-go/compare/v1.1.0...v1.1.1) (2026-10-21)
 
 
