@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.3.0...v1.4.0) (2026-10-22)
+
+
+### Features
+
+* added md indent size to editorconfig ([#16](https://github.com/ChrisPJohnstone/template-go/issues/16)) ([34e2ff7](https://github.com/ChrisPJohnstone/template-go/commit/34e2ff7f1b995dff6573a7e39a889767d683b489))
+
 ## [1.3.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.2.0...v1.3.0) (2026-10-22)
 
 
