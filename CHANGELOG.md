@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.2.0...v1.3.0) (2026-10-22)
+
+
+### Features
+
+* added .yml to editorconfig ([#14](https://github.com/ChrisPJohnstone/template-go/issues/14)) ([7a1c704](https://github.com/ChrisPJohnstone/template-go/commit/7a1c7041a4efa96dc3c4e874b06fc9b36e5b7088))
+
 ## [1.2.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.1.1...v1.2.0) (2026-10-22)
 
 
