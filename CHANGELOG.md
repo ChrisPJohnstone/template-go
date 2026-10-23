@@ -7,6 +7,13 @@
 
 * readme & contributing updates ([#18](https://github.com/ChrisPJohnstone/template-go/issues/18)) ([14f1141](https://github.com/ChrisPJohnstone/template-go/commit/14f1141c534469d8ab657f5f815391019650895c))
 
+## [1.5.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.4.0...v1.5.0) (2026-10-23)
+
+
+### Features
+
+* readme & contributing updates ([#18](https://github.com/ChrisPJohnstone/template-go/issues/18)) ([14f1141](https://github.com/ChrisPJohnstone/template-go/commit/14f1141c534469d8ab657f5f815391019650895c))
+
 ## [1.4.0](https://github.com/ChrisPJohnstone/template-go/compare/v1.3.0...v1.4.0) (2026-10-22)
 
 
