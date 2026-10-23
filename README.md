@@ -17,4 +17,3 @@ Includes
 
 - Requires [probot/settings](https://probot.github.io/apps/settings/) app installed on your account
 - Requires a PAT token in repo secrets for [Release Please](https://github.com/googleapis/release-please)
-- A container engine such as [podman] or [docker] is required to run [`make lint`](./CONTRIBUTING.md)
